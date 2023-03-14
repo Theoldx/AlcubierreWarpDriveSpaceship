@@ -1,0 +1,35 @@
+
+body {
+ background-image:url("Images/Space\ time\ Background.png");
+ background-repeat: no-repeat;
+ background-size: 100%
+}
+@font-face  {
+ font-family:"Alcubierre";
+ src:url("Fonts/alcubierre.woff2") format("woff2"), 
+ url("Fonts/Alcubierre0.otf") format("Opentype")  
+}
+* {
+ color:rgb(242, 222, 144);
+ font-family:"Alcubierre";
+ font-weight: bold;
+ font-style: normal 
+  }
+h1 {
+ margin-left: 15%;
+ font-size: 400%
+}
+h2 {
+ margin-left: 25%;
+ font-style: italic;
+ font-size: 210%
+}
+br{ content: "";
+  display:block;
+  margin-bottom: 1%
+}
+
+#Introduction
+{
+  
+}

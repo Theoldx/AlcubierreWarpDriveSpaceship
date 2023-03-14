@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alcubierre Concept
+* source:	https://sketchfab.com/3d-models/alcubierre-concept-a2cd0b6280474e5f9f5fea82a24e10f3
+* author:	D_Dingo (https://sketchfab.com/D_Dingo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alcubierre Concept" (https://sketchfab.com/3d-models/alcubierre-concept-a2cd0b6280474e5f9f5fea82a24e10f3) by D_Dingo (https://sketchfab.com/D_Dingo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
